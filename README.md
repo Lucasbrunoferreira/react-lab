@@ -17,17 +17,12 @@
 
 ![Stargazers](https://img.shields.io/github/stars/lucasbrunoferreira/react-lab?style=social) ![Issues](https://img.shields.io/github/issues/lucasbrunoferreira/react-lab) ![License](https://img.shields.io/github/license/lucasbrunoferreira/react-lab)
 
-## Table Of Contents
-
-- [About](#about)
-- [Content](#content)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-
 ## About
 
 This repository stores small projects used to test features or prove a concept for larger projects.
 
-## Content
+## Table Of Contents
 
-- [Testing the shadcn/ui + TailwindCSS](./shadcn)
+- [About](#about)
+- [Content](#content)
+  - [Testing the shadcn/ui + TailwindCSS](./shadcn)
