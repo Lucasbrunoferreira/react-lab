@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "@bitgrow/eslint-config/next",
+    "next/core-web-vitals"
+  ]
+}
